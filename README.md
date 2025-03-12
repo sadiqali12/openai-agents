@@ -49,9 +49,3 @@ https://openai.github.io/openai-agents-python/
 https://openai.github.io/openai-agents-python/models/
 
 https://ai.google.dev/gemini-api/docs/openai
-
-## 🔗 Links
-
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-woad-sigma-11.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajmal-ai-engineer/)
-[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aknizamani@gmail.com)
