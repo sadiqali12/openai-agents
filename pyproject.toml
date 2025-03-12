@@ -1,0 +1,12 @@
+[project]
+name = "openai-agents"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "chainlit>=2.4.0",
+]
+
+[tool.uv.workspace]
+members = ["hello_agent", "chainlit_chatbot"]
