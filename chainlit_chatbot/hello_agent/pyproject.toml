@@ -9,4 +9,4 @@ dependencies = [
 ]
 
 [tool.uv.workspace]
-members = ["example", "streaming"]
+members = ["example", "streaming", "context", "handoffss", "toolss", "streamingg"]
